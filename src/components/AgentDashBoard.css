@@ -1,0 +1,46 @@
+/* AgentDashboard.css */
+
+.dashboard-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dashboard-container h2 {
+    margin-top: 0;
+  }
+  
+  .dashboard-container button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .dashboard-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  .dashboard-container div {
+    margin-bottom: 20px;
+  }
+  
+  .dashboard-container ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .dashboard-container ul li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .dashboard-container ul li:last-child {
+    border-bottom: none;
+  }
+  
