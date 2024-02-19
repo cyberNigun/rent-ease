@@ -1,0 +1,24 @@
+/* HouseOwnerDashboard.css */
+
+.dashboard-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .dashboard-header {
+    text-align: center;
+    margin-bottom: 20px;
+    color: rebeccapurple;
+  }
+  
+  .listing-management,
+  .scheduled-visits,
+  .notifications {
+    margin-bottom: 40px;
+  }
+  
+  .dashboard-footer {
+    text-align: center;
+  }
+  
